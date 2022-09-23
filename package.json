@@ -1,0 +1,22 @@
+{
+  "name": "linked-list-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stasiperez85/linked-list-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stasiperez85/linked-list-tdd/issues"
+  },
+  "homepage": "https://github.com/Stasiperez85/linked-list-tdd#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
